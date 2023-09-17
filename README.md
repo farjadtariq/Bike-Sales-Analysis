@@ -1,5 +1,5 @@
 # Bike-Sales-Analysis
-
+---
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [About the Dataset](#about-the-dataset)
@@ -26,6 +26,8 @@ The dataset is sourced from GitHub and contains 1026 rows and 13 columns, includ
 
 3. **New Column - Age Group**: A new column `Age_Group` was added using a nested IF statement. This column categorizes the customers into different age groups: Youth, Middle Age, and Old.
 
+![Data Worksheet](CleanWorkingSheet.png)
+
 ## Data Analysis and Visualization
 1. **Pivot Tables**: Three pivot tables were created in a new sheet named "PivotTables".
    
@@ -33,8 +35,12 @@ The dataset is sourced from GitHub and contains 1026 rows and 13 columns, includ
 
 3. **Interactive Slicers**: Slicers were added to make the dashboard more interactive and dynamic.
 
+![Pivot Tables and Charts](PivotTables&Charts.png)
+
 ## Dashboard
 The finalized dashboard presents a comprehensive view of bike sales and contributing factors. It includes slicers for dynamic interaction and various visual elements like charts and cards.
+
+![Dashboard](Dashboard.png)
 
 ## Findings
 - Male customers earn more and purchase more bikes.
